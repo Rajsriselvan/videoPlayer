@@ -3,8 +3,8 @@ import { Icon, Input, Button, Form, notification } from 'antd';
 import 'antd/dist/antd.css'
 import './login.css'
 
-const uName = "123"
-const pass = "123"
+const uName = "mobiotics"
+const pass = "mobi@123"
 
 class Login extends Component {
 

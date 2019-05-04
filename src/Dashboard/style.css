@@ -1,13 +1,13 @@
 .ant-card-body{
     min-height: 100px;
     min-width: 320px;
-    
 }
 .outerCard{
     display: flex;
     justify-content: center;
     border-radius: 25px;
     margin-bottom: 10px;
+    cursor: pointer;
 }
 .col{
     float: left;
